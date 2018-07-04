@@ -2,6 +2,9 @@
 
 Sistema de eventos desenvolvido no curso "Welcome to the Django"
 
+[![Build Status](https://travis-ci.org/orlandosaraivajr/eventex-orlandosaraivajr.svg?branch=master)](https://travis-ci.org/orlandosaraivajr/eventex-orlandosaraivajr)
+[![Code Health](https://landscape.io/github/orlandosaraivajr/eventex-orlandosaraivajr/master/landscape.svg?style=flat)](https://landscape.io/github/orlandosaraivajr/eventex-orlandosaraivajr/master)
+
 ### Como desenvolver ?
 
 1. Clone o repositório
